@@ -25,7 +25,7 @@ export function SolarSystem() {
           size={0.4}
           color="#A0522D"
           orbitSpeed={4.1}
-          textureUrl="https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/textures/planets/mercury.jpg"
+          textureUrl="https://raw.githubusercontent.com/saikothasan/garbanzo/refs/heads/main/public/2k_mercury.jpg"
         />
         <Planet 
           name="Venus"
@@ -34,7 +34,7 @@ export function SolarSystem() {
           color="#DEB887"
           orbitSpeed={1.6}
           hasAtmosphere
-          textureUrl="https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/textures/planets/venus.jpg"
+          textureUrl="https://raw.githubusercontent.com/saikothasan/garbanzo/refs/heads/main/public/2k_venus_surface.jpg"
         />
         <Planet 
           name="Earth"
@@ -43,7 +43,7 @@ export function SolarSystem() {
           color="#4169E1"
           orbitSpeed={1}
           hasAtmosphere
-          textureUrl="https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/textures/planets/earth.jpg"
+          textureUrl="https://raw.githubusercontent.com/saikothasan/garbanzo/refs/heads/main/public/2k_earth_daymap.jpg"
         />
         <Planet 
           name="Mars"
@@ -51,7 +51,7 @@ export function SolarSystem() {
           size={0.5}
           color="#CD5C5C"
           orbitSpeed={0.5}
-          textureUrl="https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/textures/planets/mars.jpg"
+          textureUrl="https://raw.githubusercontent.com/saikothasan/garbanzo/refs/heads/main/public/2k_mars.jpg"
         />
         <Planet 
           name="Jupiter"
@@ -60,7 +60,7 @@ export function SolarSystem() {
           color="#DAA520"
           orbitSpeed={0.3}
           hasAtmosphere
-          textureUrl="https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/textures/planets/jupiter.jpg"
+          textureUrl="https://raw.githubusercontent.com/saikothasan/garbanzo/refs/heads/main/public/2k_jupiter.jpg"
         />
         <Planet 
           name="Saturn"
@@ -69,7 +69,7 @@ export function SolarSystem() {
           color="#F4A460"
           orbitSpeed={0.2}
           hasRings
-          textureUrl="https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/textures/planets/saturn.jpg"
+          textureUrl="https://raw.githubusercontent.com/saikothasan/garbanzo/refs/heads/main/public/2k_saturn.jpg"
         />
       </group>
     </Suspense>
